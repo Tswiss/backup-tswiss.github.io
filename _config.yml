@@ -1,1 +1,4 @@
-theme:jekyll-theme-merlot
+title: tswiss
+logo: /assets/img/logo.jpeg
+show_downloads: true
+theme: jekyll-theme-minimal
