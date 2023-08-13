@@ -3,4 +3,4 @@ logo: /logo.jpeg
 description: Secure Software Solutions
 #show_downloads: true
 theme: jekyll-serif-theme
-baseurl: "/jekyll-serif-theme/"
+#baseurl: "/jekyll-serif-theme/"
